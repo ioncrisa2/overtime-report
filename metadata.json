@@ -1,0 +1,5 @@
+{
+  "name": "HolidayOvertime",
+  "description": "A comprehensive overtime tracking system for public holidays with Username/PIN authentication, formatted PDF export reports, and data visualization.",
+  "requestFramePermissions": []
+}
